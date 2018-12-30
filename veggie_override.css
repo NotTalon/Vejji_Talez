@@ -1,0 +1,15 @@
+ .background{
+	background-image: url("veggie_banner.jpg");
+}
+
+.banner{
+	background-image: url(veggie_banner.jpg);
+	height: 300px;
+	min-width: 100%;
+	background-size: 100% 100%;
+	background-repeat:no-repeat; 
+}
+ span{
+ 	font-size: 1.5em;
+ }
+
